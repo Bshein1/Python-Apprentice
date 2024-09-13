@@ -27,7 +27,23 @@ tina.left(90)
 tina.forward(150)
 tina.left(90)
 
-
+... # Your code here
+tina.shape('turtle')
+tina.forward(50)
+tina.left(72)
+tina.forward(50)
+tina.left(72)
+tina.forward(50)
+tina.left(72)
+tina.forward(50)
+tina.left(72)
+tina.forward(50)
+tina.left(50)
+tina.color("blue")
+tina.begin_fill()
+tina.circle(30, steps=50)
+tina.end_fill()
+tina = turtle.Turtle()
 turtle.exitonclick()                    # Close the window when we click on it
 
 ... # Your code here

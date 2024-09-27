@@ -58,4 +58,4 @@ for i in range(25):
 
 t.hideturtle() 
 
-turtle.done() 
+turtle.exitonclick() 

@@ -38,4 +38,4 @@ for i in range(360):
 
 myTurtle.hideturtle()
 
-turtle.done()
+turtle.exitonclick()

@@ -56,6 +56,5 @@ for i in range(25):
 
     t.end_fill()
 
-t.hideturtle() 
 
 turtle.exitonclick() 
